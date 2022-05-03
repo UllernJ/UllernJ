@@ -2,6 +2,6 @@
 
 #### 🌱Studying IT, specialization cybersecurity.
 
-#### ⚡Programming mainly in Javascript and Python.
+#### ⚡Programming mainly in Java, Javascript and Python.
 
 #### ⚡Enjoy doing CTFs
