@@ -1,5 +1,5 @@
 # About me
 
-#### ⚡Programming mainly in Java, Javascript and Python.
+#### ⚡Java developer at Logiq
 
 #### ⚡Enjoy doing CTFs
