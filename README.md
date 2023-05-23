@@ -1,5 +1,5 @@
 # About me
 
-#### ⚡Java developer at Logiq
+#### ⚡Developer
 
 #### ⚡Enjoy doing CTFs
